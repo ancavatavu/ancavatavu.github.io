@@ -1,0 +1,20 @@
+img {
+    max-width: 90%;
+    max-height: 80vh;
+}
+
+a {
+    display: block;
+    margin-top: 20px;
+}
+</style>
+
+</head>
+<body>
+
+<img src="Sisyphus.jpg" alt="Sisyphus">
+
+<a href="index.html">back</a>
+
+</body>
+</html>
